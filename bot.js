@@ -16,7 +16,7 @@ var eightball = [
 var bot = new Discord.Client();
 
 bot.on("ready", function() { 
-    bot.user.setActivity("[xltra.xyz/tomas/] - $") 
+    bot.user.setActivity("[xltra.xyz/tomas/] l - $") 
 	bot.user.setStatus("dnd") 
 	
     console.log("TomasBOT is ready!") 
